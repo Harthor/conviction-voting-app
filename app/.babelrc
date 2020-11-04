@@ -13,7 +13,9 @@
             "android >= 4.2"
           ]
         },
-        "useBuiltIns": false
+        "useBuiltIns": "entry",
+        "corejs": 3,
+        "shippedProposals": true
       }
     ]
   ],
